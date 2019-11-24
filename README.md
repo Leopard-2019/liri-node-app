@@ -21,7 +21,7 @@ and gives you back data.
       
       An example using the band "u2" is shown in figure1 contained in the images folder.
       
-   - node liri.js spotify-this-song  <song name here>.
+   - node liri.js spotify-this-song <song name here>
    
        This will show the following information about the song in your terminal/bash window
 
