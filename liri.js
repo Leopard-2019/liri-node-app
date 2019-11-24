@@ -9,20 +9,7 @@ const Spotify = require("node-spotify-api");
 
 //Global variables
 var action = process.argv[2];
-var nodeArgs = process.argv;
-var inputUser = "";
-
-// Loop through all the words in the node argument
-// And do a little for-loop magic to handle the inclusion of artist, band or song with multiple words
-
-for (let i = 3; i < nodeArgs.length; i++) {
-
-    if (i > 3 && i < nodeArgs.length) {
-        inputUser = inputUser + "+" + nodeArgs[i];
-    } else {
-        inputUser += nodeArgs[i];
-    }
-};
+var inputUser = process.argv.slice(3).join(" ");
 
 
 // Block of code that tell the action that the app will be doing
@@ -115,10 +102,11 @@ function spotifythis() {
 
 
     let songName = inputUser;
+    // let songName2 = inputUser2;
 
     // if the user does not input any song
     if (!songName) {
-        songName = "The Sign"
+        songName = "The Sign";
     }
 
 
@@ -216,6 +204,7 @@ function dowhatitsays() {
 
         action = output[0];
         inputUser = output[1];
+
 
         switch (action) {
             case "concert-this":

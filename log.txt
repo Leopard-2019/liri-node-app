@@ -5,7 +5,7 @@
  Date of the Event: 11/27/2019
 
   artist(s): Céline Dion
-  song's name: my+heart+will+go+on
+  song's name: my heart will go on
   Preview link of the song from Spotify: https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs
   The album is from: Let's Talk About Love
 
@@ -45,3 +45,8 @@
  Language of the movie: English
  Plot of the movie: The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75.
  Actors in the movie: Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys
+
+  artist(s): Céline Dion
+  song's name: my heart will go on
+  Preview link of the song from Spotify: https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs
+  The album is from: Let's Talk About Love
