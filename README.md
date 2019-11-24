@@ -18,7 +18,7 @@ and gives you back data.
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
       
       
-      An example using the band "u2" is shown in figure1 listed in the images folder.
+      An example using the band "u2" is shown in figure1 contained in the images folder.
       
    - node liri.js spotify-this-song '<song name here>
        This will show the following information about the song in your terminal/bash window
@@ -31,10 +31,10 @@ and gives you back data.
 
         * The album that the song is from
         
-        An example using the song "my heart will go on" is shown in  figure2 listed in the images folder.
+        An example using the song "my heart will go on" is shown in  figure2 contained in the images folder.
 
         * If no song is provided then your program will default to "The Sign" by Ace of Base. An example
-          using this option is shown in  figure5 listed in the images folder.
+          using this option is shown in  figure5 contained in the images folder.
         
         
     - node liri.js movie-this '<movie name here>
@@ -49,10 +49,10 @@ and gives you back data.
        * Plot of the movie.
        * Actors in the movie.
 
-       An example using the movie "superman" is shown in  figure3 listed in the images folder.
+       An example using the movie "superman" is shown in  figure3 containedin the images folder.
        
        * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' An example
-       using this option is shown in  figure6 listed in the images folder.
+       using this option is shown in  figure6 contained in the images folder.
       
     - node liri.js do-what-it-says
      
@@ -61,10 +61,10 @@ and gives you back data.
 
        * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
         
-       An example using this option is shown in  figure4 listed in the images folder.
+       An example using this option is shown in  figure4 contained in the images folder.
         
        An example editing the file random.txt with this content: movie-this,"Forrest Gump" This option is shown in  
-       figure7 listed in the images folder.
+       figure7 contained in the images folder.
      
       
        
