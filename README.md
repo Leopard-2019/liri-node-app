@@ -7,7 +7,7 @@ and gives you back data.
 
 2. What Each Command does
 
-   A. node liri.js concert-this  artist/band name here
+   A. node liri.js concert-this  "artist/band name here"
    
       It searchs the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events? 
       app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal. 
@@ -21,7 +21,7 @@ and gives you back data.
       
       An example using the band "u2" is shown in figure1 contained in the images folder.
       
-   B. node liri.js spotify-this-song  song name here
+   B. node liri.js spotify-this-song  "song name here"
    
        This will show the following information about the song in your terminal/bash window
 
@@ -39,7 +39,7 @@ and gives you back data.
           using this option is shown in  figure5 contained in the images folder.
         
         
-    C. node liri.js movie-this  movie name here
+    C. node liri.js movie-this  "movie name here"
    
       This will output the following information to your terminal/bash window:
 
