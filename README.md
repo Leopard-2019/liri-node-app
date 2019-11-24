@@ -68,11 +68,6 @@ and gives you back data.
         
        An example editing the file random.txt with this content: movie-this,"Forrest Gump" This option is shown in  
        figure7 contained in the images folder.
-     
-      
-       
-       
-
       
       
       ￼
