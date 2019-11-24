@@ -8,6 +8,7 @@ and gives you back data.
 2. What Each Command does
 
    - node liri.js concert-this <artist/band name here>.
+   
       It searchs the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events? 
       app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal. 
       
@@ -21,6 +22,7 @@ and gives you back data.
       An example using the band "u2" is shown in figure1 contained in the images folder.
       
    - node liri.js spotify-this-song '<song name here>
+   
        This will show the following information about the song in your terminal/bash window
 
         * Artist(s)
@@ -38,6 +40,7 @@ and gives you back data.
         
         
     - node liri.js movie-this '<movie name here>
+   
       This will output the following information to your terminal/bash window:
 
        * Title of the movie.
@@ -49,7 +52,7 @@ and gives you back data.
        * Plot of the movie.
        * Actors in the movie.
 
-       An example using the movie "superman" is shown in  figure3 containedin the images folder.
+       An example using the movie "superman" is shown in  figure3 contained in the images folder.
        
        * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' An example
        using this option is shown in  figure6 contained in the images folder.
