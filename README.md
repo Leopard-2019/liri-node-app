@@ -8,9 +8,17 @@ and gives you back data.
 2. What Each Command does
 
    - node liri.js concert-this <artist/band name here>.
-      It searchs the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) 
-      for an artist and render the following information about each event to the terminal. An example using the band "u2" is shown in 
-      figure #1 listed in the images folder.
+      It searchs the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events? 
+      app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal. 
+      
+     * Name of the venue
+
+     * Venue location
+
+     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+      
+      
+      An example using the band "u2" is shown in figure #1 listed in the images folder.
       
    - node liri.js spotify-this-song '<song name here>
        This will show the following information about the song in your terminal/bash window
