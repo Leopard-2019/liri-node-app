@@ -21,7 +21,7 @@ and gives you back data.
       
       An example using the band "u2" is shown in figure1 contained in the images folder.
       
-   - node liri.js spotify-this-song  <song name here>
+   - node liri.js spotify-this-song  <song name here>.
    
        This will show the following information about the song in your terminal/bash window
 
@@ -39,7 +39,7 @@ and gives you back data.
           using this option is shown in  figure5 contained in the images folder.
         
         
-    - node liri.js movie-this <movie name here>
+    - node liri.js movie-this <movie name here>.
    
       This will output the following information to your terminal/bash window:
 
