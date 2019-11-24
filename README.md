@@ -47,17 +47,17 @@ and gives you back data.
        * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' An example
        using this option is shown in  figure #6 listed in the images folder.
        
-     - node liri.js do-what-it-says
+    - node liri.js do-what-it-says
      
-        Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of 
-        LIRI's commands.
+       Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of 
+       LIRI's commands.
 
-        * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
+       * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
         
-        An example using this option is shown in  figure #4 listed in the images folder.
+       An example using this option is shown in  figure #4 listed in the images folder.
         
-        An example editing the file random.txt with this content: movie-this,"Forrest Gump" This option is shown in  
-        figure #7 listed in the images folder.
+       An example editing the file random.txt with this content: movie-this,"Forrest Gump" This option is shown in  
+       figure #7 listed in the images folder.
      
       
        
