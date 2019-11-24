@@ -47,6 +47,7 @@ and gives you back data.
        * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' An example
        using this option is shown in  figure #6 listed in the images folder.
        
+       
     - node liri.js do-what-it-says
      
        Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of 
