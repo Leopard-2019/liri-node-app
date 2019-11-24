@@ -1,0 +1,24 @@
+
+ Name of the artist: u2
+ Name of the venue: Optus Stadium
+ Venue location: Burswood,Australia
+ Date of the Event: 11/27/2019
+
+  artist(s): Céline Dion
+  song's name: my+heart+will+go+on
+  Preview link of the song from Spotify: https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs
+  The album is from: Let's Talk About Love
+
+ Movie's Title: Superman
+ Release Year: 1978
+ The movie's rating is: 7.3
+ Rotten Tomatoes Rating of the movie: 94%
+ Country where the movie was produced: USA, UK, Canada, Switzerland
+ Language of the movie: English
+ Plot of the movie: An alien orphan is sent from his dying planet to Earth, where he grows up to become his adoptive home's first and greatest superhero.
+ Actors in the movie: Marlon Brando, Gene Hackman, Christopher Reeve, Ned Beatty
+
+  artist(s): Backstreet Boys
+  song's name: "I Want it That Way"
+  Preview link of the song from Spotify: https://open.spotify.com/album/1NslKOZobWxINFaFkLol3r
+  The album is from: The Hits--Chapter One
