@@ -19,7 +19,7 @@ and gives you back data.
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
       
       
-      An example using the band "u2" is shown in figure1 contained in the images folder.
+      An example using the band "u2" is shown in figure 1 contained in the images folder.
       
       ![](images/figure1.jpeg)
       
@@ -38,7 +38,9 @@ and gives you back data.
         An example using the song "my heart will go on" is shown in  figure2 contained in the images folder.
 
         * If no song is provided then your program will default to "The Sign" by Ace of Base. An example
-          using this option is shown in  figure5 contained in the images folder.
+          using this option is shown in  figure 5 contained in the images folder.
+          
+           ![](images/figure5.jpeg)
         
         
     C. node liri.js movie-this  "movie name here"
@@ -54,10 +56,14 @@ and gives you back data.
        * Plot of the movie.
        * Actors in the movie.
 
-       An example using the movie "superman" is shown in  figure3 contained in the images folder.
+       An example using the movie "superman" is shown in  figure 3 contained in the images folder.
+       
+        ![](images/figure3.jpeg)
        
        * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.' An example
        using this option is shown in  figure6 contained in the images folder.
+       
+        ![](images/figure6.jpeg)
       
     D. node liri.js do-what-it-says
      
@@ -67,9 +73,13 @@ and gives you back data.
        * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
         
        An example using this option is shown in  figure4 contained in the images folder.
+       
+        ![](images/figure4.jpeg)
         
        An example editing the file random.txt with this content: movie-this,"Forrest Gump" This option is shown in  
        figure7 contained in the images folder.
+       
+        ![](images/figure7.jpeg)
       
       
       ￼
