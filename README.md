@@ -1,8 +1,8 @@
-LIRI-NODE-APP
+# LIRI-NODE-APP #
 
 1.Overview
 
-In this assignment, an application called  LIRI has been coded. It is a command line node app that takes in parameters 
+An application called  LIRI has been coded. It is a command line node app that takes in parameters 
 and gives you back data.
 
 2. What Each Command does
